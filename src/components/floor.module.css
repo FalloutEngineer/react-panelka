@@ -1,0 +1,10 @@
+.floor {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+/* .floor {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+} */
